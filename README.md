@@ -83,6 +83,7 @@ END
 
 ![WhatsApp Image 2025-11-11 at 20 28 00](https://github.com/user-attachments/assets/27588a22-cd63-4981-961c-b35871a1458b)
 
+<img width="1108" height="517" alt="s h r u t h i s" src="https://github.com/user-attachments/assets/a54a6b2f-5e86-4a48-8050-7c35127873e1" />
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
