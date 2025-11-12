@@ -45,7 +45,7 @@ END
 #include<reg51.h>
 void main(void)
 {
-unsigned char msg[]="shruthi S";
+unsigned char msg[]="shruthi s";
 unsigned char i;
 TMOD=0X20;//TIMER 1,MODE 2
 TH1=0XFC;
